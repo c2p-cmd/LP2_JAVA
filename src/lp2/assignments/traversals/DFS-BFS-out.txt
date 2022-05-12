@@ -1,0 +1,52 @@
+Enter number of vertices: 4
+
+Nature of graph:
+1. Directed
+2. Undirected
+1
+
+Which edges to add?
+Do you want to add edge going from 0 to 0?
+Y for yes, N for no: n
+Do you want to add edge going from 0 to 1?
+Y for yes, N for no: y
+Do you want to add edge going from 0 to 2?
+Y for yes, N for no: y
+Do you want to add edge going from 0 to 3?
+Y for yes, N for no: n
+Do you want to add edge going from 1 to 0?
+Y for yes, N for no: n
+Do you want to add edge going from 1 to 1?
+Y for yes, N for no: n
+Do you want to add edge going from 1 to 2?
+Y for yes, N for no: n
+Do you want to add edge going from 1 to 3?
+Y for yes, N for no: y
+Do you want to add edge going from 2 to 0?
+Y for yes, N for no: n
+Do you want to add edge going from 2 to 1?
+Y for yes, N for no: n
+Do you want to add edge going from 2 to 2?
+Y for yes, N for no: n
+Do you want to add edge going from 2 to 3?
+Y for yes, N for no: y
+Do you want to add edge going from 3 to 0?
+Y for yes, N for no: n
+Do you want to add edge going from 3 to 1?
+Y for yes, N for no: n
+Do you want to add edge going from 3 to 2?
+Y for yes, N for no: n
+Do you want to add edge going from 3 to 3?
+Y for yes, N for no: y
+
+Choose source node for BFS =
+0
+
+BFS->
+0 1 2 3 
+
+Choose source node for DFS =
+0
+
+DFS->
+0 1 3 2 
